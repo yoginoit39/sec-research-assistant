@@ -1,5 +1,7 @@
 # SEC Research Assistant
 
+**Live Demo:** [https://sec-research-assistant-eorhmybiu-yoginoit39s-projects.vercel.app](https://sec-research-assistant-eorhmybiu-yoginoit39s-projects.vercel.app)
+
 An AI-powered research assistant that lets you ask natural language questions about any public company's SEC filings (10-K annual reports). Built with RAG (Retrieval-Augmented Generation) — the same architecture used by Morgan Stanley's internal AI assistant.
 
 ## What it does
